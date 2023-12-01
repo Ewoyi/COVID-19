@@ -1,7 +1,9 @@
 # COVID-19 (Exploratory Analysis - SQL)
 
+## Project Description
+
 An in-depth exploration was carried out on the COVID dataset to gain insights into the patterns of infection and mortality cases during the period spanning 2020 to 2021.
-For this analysis, data was scrapped from ...
+For this analysis, data was scrapped from [Our World in Data](https://ourworldindata.org/covid-deaths)
 
 The analysis revealed a staggering total of more than 150 million confirmed cases worldwide, with a reported death toll exceeding 3 million individuals, constituting a mortality rate of approximately 2.11 percent.
 
